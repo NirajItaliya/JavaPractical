@@ -1,6 +1,6 @@
 # OOPS_Practicals
 
-## For GTU students, practicles of subject *Object Oriented Programming in JAVA(3140705)* are here with all files + hand-written assignment + Manual file.
+## For GTU students, practicles of subject *Object Oriented Programming in JAVA(3140705)* are here with all files  + Manual file.
 
 ## Path of *.java* files : JavaPractical/src/com/company
 
