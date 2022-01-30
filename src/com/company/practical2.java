@@ -18,6 +18,5 @@ public class practical2 {
         x=((e*d)-(b*f))/((a*d)-(b*c));
         y=((a*f)-(e*c))/((a*d)-(b*c));
         System.out.println("x="+x +"\ny="+ y);
-
     }
 }
