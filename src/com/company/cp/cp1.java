@@ -16,12 +16,9 @@ public class cp1 {
             list.add(new Random().nextInt(100));
         }
         Collections.sort(list);
-        for(int lint : list){
+        for(int lint : list) {
             System.out.println(lint);
         }
-
-
-
     }
 }
 class MyClass
